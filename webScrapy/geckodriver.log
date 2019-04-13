@@ -1,0 +1,1527 @@
+Usage:
+    geckodriver [OPTIONS]
+geckodriver: Unknown option --port
+1551072253168	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.D6kRZ1SUiVV2"
+1551072254483	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551072254485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551072259536	Marionette	INFO	Listening on port 45417
+1551072259663	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551072815161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BldojYe2wHQv"
+1551072816155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551072816155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551072821141	Marionette	INFO	Listening on port 38691
+1551072821252	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551073115692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dedIM3mOj7U2"
+1551073116701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551073116702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551073121397	Marionette	INFO	Listening on port 36453
+1551073121507	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551073528247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BkmnkOShNtSf"
+1551073529252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551073529254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551073534680	Marionette	INFO	Listening on port 40835
+1551073534838	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4031, Chrome_ChildThread] WARNING: pipe error (3): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3952, Chrome_ChildThread] WARNING: pipe error (3): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551073715147	Marionette	INFO	Stopped listening on port 45417
+1551073717533	Marionette	INFO	Stopped listening on port 38691
+1551073719287	Marionette	INFO	Stopped listening on port 36453
+1551074556009	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6qXSqDHuRKIw"
+1551074556854	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551074556857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551074560950	Marionette	INFO	Listening on port 45927
+1551074561085	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4451, Chrome_ChildThread] WARNING: pipe error (3): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Child 4514, Chrome_ChildThread] WARNING: pipe error (3): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551074892569	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KcMa4ia2It7n"
+1551074893555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551074893556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551074898024	Marionette	INFO	Listening on port 42603
+1551074898106	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551074956559	Marionette	INFO	Stopped listening on port 42603
+1551075815995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AqrM8doUPvZs"
+1551075816915	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551075816917	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551075821215	Marionette	INFO	Listening on port 46371
+1551075821354	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 5340, Chrome_ChildThread] WARNING: pipe error (3): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551076048594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9NlB61a7SSQS"
+1551076049527	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551076049528	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551076053806	Marionette	INFO	Listening on port 38163
+1551076053878	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551076646169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BVwWlmBySAEJ"
+1551076647050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551076647050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551076650781	Marionette	INFO	Listening on port 45367
+1551076650866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551076740397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5rJPTq5MzMcZ"
+1551076741329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551076741330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551076745188	Marionette	INFO	Listening on port 44169
+1551076745279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551076762897	Marionette	INFO	Stopped listening on port 44169
+[Parent 6325, Gecko_IOThread] WARNING: pipe error (78): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 6325, Gecko_IOThread] WARNING: pipe error (108): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551076774258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X3FymnFhprHd"
+1551076775464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551076775468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551076779638	Marionette	INFO	Listening on port 40227
+1551076779738	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551077349118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MHOrekwDKmQm"
+1551077350554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551077350556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551077354925	Marionette	INFO	Listening on port 40895
+1551077355037	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551077780421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iWKXp7c1Y1gQ"
+1551077781379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551077781380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551077786172	Marionette	INFO	Listening on port 39437
+1551077786296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551077919785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.e0YjtY2C5OtV"
+1551077920706	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551077920707	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551077924955	Marionette	INFO	Listening on port 38905
+1551077925018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551077942315	Marionette	INFO	Stopped listening on port 38905
+1551077950832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QhIuZ2ZZ6mGR"
+1551077951792	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551077951795	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551077957037	Marionette	INFO	Listening on port 44113
+1551077957087	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1551078002369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3cdqgOxsBAWe"
+1551078003330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551078003330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551078007804	Marionette	INFO	Listening on port 32847
+1551078007878	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8634, Chrome_ChildThread] WARNING: pipe error (3): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Child 8710, Chrome_ChildThread] WARNING: pipe error (3): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551078430945	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gUDaDA0j9psj"
+1551078433258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551078433259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551078440316	Marionette	INFO	Listening on port 42779
+1551078440385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551078458630	Marionette	INFO	Stopped listening on port 42779
+1551078472877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aNXmsCk9KUCI"
+1551078476390	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551078476391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551078482317	Marionette	INFO	Listening on port 33739
+1551078482477	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551080076688	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N0L0I771wtuh"
+1551080088140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551080088141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551080110966	Marionette	INFO	Listening on port 44299
+1551080112032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551080145162	Marionette	INFO	Stopped listening on port 44299
+1551080171661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gjaU0qhvyplK"
+1551080177774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551080177774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551080186502	Marionette	INFO	Listening on port 45311
+1551080186641	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551080961805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BmxZ764Cv5U8"
+1551080969781	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551080969782	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551080985298	Marionette	INFO	Listening on port 44251
+1551080985495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551081004282	Marionette	INFO	Stopped listening on port 44251
+[Parent 10691, Gecko_IOThread] WARNING: pipe error (83): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551081023154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6DRTby7taj1U"
+1551081036017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551081036179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551081049179	Marionette	INFO	Listening on port 45909
+1551081050344	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551081095698	Marionette	INFO	Stopped listening on port 45909
+[Parent 10970, Gecko_IOThread] WARNING: pipe error (85): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1551081230967	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kg3kTsUgw9QM"
+1551081486589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nxVTJvQuKjRM"
+1551081488724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551081488725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551081496631	Marionette	INFO	Listening on port 45371
+1551081496746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551081513661	Marionette	INFO	Stopped listening on port 45371
+[Parent 11396, Gecko_IOThread] WARNING: pipe error (84): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551081521816	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZXxLVXF2WsDN"
+1551081522708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551081522709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551081526733	Marionette	INFO	Listening on port 45571
+1551081526794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551081543442	Marionette	INFO	Stopped listening on port 45571
+1551081551045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3bBe78qmpVrx"
+1551081551945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551081551946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551081555878	Marionette	INFO	Listening on port 34999
+1551081555900	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551107714960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hBobS7TFLSEM"
+1551107720184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551107720184	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551107729318	Marionette	INFO	Listening on port 35193
+1551107729369	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551119551308	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pgV0XFhtDwYH"
+1551119556537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551119556538	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551119565307	Marionette	INFO	Listening on port 46869
+1551119565411	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551119586727	Marionette	INFO	Stopped listening on port 46869
+1551119616319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FwGyrTClFgzD"
+1551119617311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551119617311	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551119621301	Marionette	INFO	Listening on port 46217
+1551119621456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551119638746	Marionette	INFO	Stopped listening on port 46217
+1551119647868	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TkhXjyqsd0vV"
+1551119648859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551119648859	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551119653476	Marionette	INFO	Listening on port 44063
+1551119653559	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551208024041	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gWVp8OJTcU03"
+1551208025343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551208025345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551208030483	Marionette	INFO	Listening on port 39755
+1551208030544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551208047828	Marionette	INFO	Stopped listening on port 39755
+[Parent 2518, Gecko_IOThread] WARNING: pipe error (70): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551208050309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.u3aj1XfgXP1I"
+1551208051340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551208051341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551208055409	Marionette	INFO	Listening on port 38811
+1551208055484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551208072463	Marionette	INFO	Stopped listening on port 38811
+1551208073808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xTJJ9aK4rYwt"
+1551208074685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551208074685	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551208078782	Marionette	INFO	Listening on port 36715
+1551208078925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551208095237	Marionette	INFO	Stopped listening on port 36715
+1551208232139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lOA9bvYP6Z0C"
+1551208233093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551208233096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551208237843	Marionette	INFO	Listening on port 32919
+1551208237953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551208255005	Marionette	INFO	Stopped listening on port 32919
+1551208257191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.k9MaIhSPXzKT"
+1551208258091	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551208258092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551208262136	Marionette	INFO	Listening on port 33257
+1551208262255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551208279415	Marionette	INFO	Stopped listening on port 33257
+1551208280581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.G5TXmrvzrPmT"
+1551208281543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551208281544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551208285598	Marionette	INFO	Listening on port 41939
+1551208285691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551208302434	Marionette	INFO	Stopped listening on port 41939
+1551208303586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uPKDGXHYRNIF"
+1551208304588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551208304588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551208308795	Marionette	INFO	Listening on port 33555
+1551208308872	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551208513400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z6D8tp3IU1hX"
+1551208514286	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551208514287	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551208518513	Marionette	INFO	Listening on port 40753
+1551208518655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551208536287	Marionette	INFO	Stopped listening on port 40753
+1551208537593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.w5RAyZ96R3BM"
+1551208538503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551208538503	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551208542396	Marionette	INFO	Listening on port 37551
+1551208542463	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551211954101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.a31MhVgwb8Oj"
+1551211955215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551211955216	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551211960272	Marionette	INFO	Listening on port 44133
+1551211960366	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+[Parent 5893, Gecko_IOThread] WARNING: pipe error (78): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551212080583	Marionette	INFO	Stopped listening on port 44133
+1551212238542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dsE6XVivBu3w"
+1551212239491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551212239491	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551212243880	Marionette	INFO	Listening on port 38615
+1551212243943	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551212261517	Marionette	INFO	Stopped listening on port 38615
+[Parent 6199, Gecko_IOThread] WARNING: pipe error (78): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551212262742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.slBQNxP6QKO8"
+1551212263627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551212263628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551212267759	Marionette	INFO	Listening on port 34789
+1551212267807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551212284642	Marionette	INFO	Stopped listening on port 34789
+1551212286258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4SeGEIpRg6Cl"
+1551212287291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551212287294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551212292242	Marionette	INFO	Listening on port 43733
+1551212292333	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551212315363	Marionette	INFO	Stopped listening on port 43733
+1551212323225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.16kHUU2sb73E"
+1551212324225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551212324225	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551212329296	Marionette	INFO	Listening on port 46723
+1551212329364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551212347546	Marionette	INFO	Stopped listening on port 46723
+1551212353776	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RHH6UM2QpsVU"
+1551212354750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551212354753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551212358946	Marionette	INFO	Listening on port 42273
+1551212359016	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551212379368	Marionette	INFO	Stopped listening on port 42273
+[Parent 7173, Gecko_IOThread] WARNING: pipe error (81): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551212385582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZSPP4929VTGa"
+1551212386543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551212386543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551212390039	Marionette	INFO	Listening on port 37781
+1551212390090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551212407111	Marionette	INFO	Stopped listening on port 37781
+1551212934525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JHbzZOJ4Wx72"
+1551212935590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551212935590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551212940302	Marionette	INFO	Listening on port 46639
+1551212940414	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551212957676	Marionette	INFO	Stopped listening on port 46639
+1551212960014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TAtT5lwjfTBv"
+1551212961064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551212961065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551212964761	Marionette	INFO	Listening on port 45997
+1551212964875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551212982831	Marionette	INFO	Stopped listening on port 45997
+[Parent 8105, Gecko_IOThread] WARNING: pipe error (81): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551212986177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yLnWqBU3wq9x"
+1551212987208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551212987209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551212994419	Marionette	INFO	Listening on port 42733
+1551212994506	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551213288028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KjJogXAakQfw"
+1551213289181	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213289182	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213294444	Marionette	INFO	Listening on port 41365
+1551213294579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551213313002	Marionette	INFO	Stopped listening on port 41365
+JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1393: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+[Parent 8731, Gecko_IOThread] WARNING: pipe error (97): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+1551213314454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J93xfuA3IXb2"
+1551213315477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213315479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213319900	Marionette	INFO	Listening on port 36867
+1551213319975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551213338401	Marionette	INFO	Stopped listening on port 36867
+1551213340648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tO2m4B9U3Xrl"
+1551213341613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213341614	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213346087	Marionette	INFO	Listening on port 35865
+1551213346134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551213451685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4kMHhWOWQGPt"
+1551213452979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213452980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213462597	Marionette	INFO	Listening on port 46779
+1551213462707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551213481240	Marionette	INFO	Stopped listening on port 46779
+JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1393: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+[Parent 9475, Gecko_IOThread] WARNING: pipe error (83): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551213486115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JEB7zuF6PjgC"
+1551213491441	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213491444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213499532	Marionette	INFO	Listening on port 41229
+1551213499590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551213516189	Marionette	INFO	Stopped listening on port 41229
+[Parent 9722, Gecko_IOThread] WARNING: pipe error (79): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551213518580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gUpPYzMyHyLH"
+1551213520862	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213520863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213525045	Marionette	INFO	Listening on port 43101
+1551213525217	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551213582275	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WvS61D3gPffz"
+1551213583327	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213583330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213588699	Marionette	INFO	Listening on port 41263
+1551213588785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551213605885	Marionette	INFO	Stopped listening on port 41263
+[Parent 10185, Gecko_IOThread] WARNING: pipe error (81): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551213607174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AK1Ee5ER5ZR0"
+1551213608092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213608093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213612067	Marionette	INFO	Listening on port 37037
+1551213612136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551213630143	Marionette	INFO	Stopped listening on port 37037
+JavaScript error: jar:file:///usr/lib/firefox/browser/omni.ja!/components/nsBrowserGlue.js, line 1393: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]
+JavaScript error: resource://gre/modules/JSONFile.jsm, line 159: Error: Data is not ready.
+1551213636887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m7XSd1Ppll3g"
+1551213637767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213637767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213641774	Marionette	INFO	Listening on port 44495
+1551213641903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551213659840	Marionette	INFO	Stopped listening on port 44495
+[Parent 10712, Gecko_IOThread] WARNING: pipe error (78): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1551213666170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kuFVKjH1uQVE"
+1551213667074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213667075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213671312	Marionette	INFO	Listening on port 37249
+1551213671426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551213688528	Marionette	INFO	Stopped listening on port 37249
+1551213689644	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cTQxeT3AR9Ys"
+1551213690513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551213690513	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551213694600	Marionette	INFO	Listening on port 46117
+1551213694623	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1551214055906	Marionette	INFO	Stopped listening on port 46117
+1551214537564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sUA8k3L1NFqy"
+1551214538560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551214538561	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551214542727	Marionette	INFO	Listening on port 45179
+1551214542885	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551214559660	Marionette	INFO	Stopped listening on port 45179
+1551214561972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5AcFPoWojLCf"
+1551214562975	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551214562981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551214566448	Marionette	INFO	Listening on port 44431
+1551214566570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1551214583891	Marionette	INFO	Stopped listening on port 44431
+1551214586176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EHcy1Xh7Yjqb"
+1551214587220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1551214587221	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1551214591749	Marionette	INFO	Listening on port 33197
+1551214591865	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1555091737329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KzfxuKILqCgY"
+1555091738523	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555091738524	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555091743357	Marionette	INFO	Listening on port 45133
+1555091743491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.justice.gov.il/Publicjs/gbox/detector-dom.min.js?rev=5.6.184_B186, line 0: Successfully compiled asm.js code (total compilation time 34ms; not stored in cache (too small to benefit))
+1555091760673	Marionette	INFO	Stopped listening on port 45133
+[Parent 2657, Gecko_IOThread] WARNING: pipe error (70): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1555091767085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LkpCvEcQ3Oui"
+1555091767886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555091767886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555091771777	Marionette	INFO	Listening on port 43581
+1555091771931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.justice.gov.il/Publicjs/gbox/detector-dom.min.js?rev=5.6.184_B186, line 0: Successfully compiled asm.js code (total compilation time 18ms; not stored in cache (too small to benefit))
+1555091788748	Marionette	INFO	Stopped listening on port 43581
+[Parent 2952, Gecko_IOThread] WARNING: pipe error (81): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1555091790213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MBjOsjPqdzP3"
+1555091791015	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555091791017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555091794493	Marionette	INFO	Listening on port 39587
+1555091794571	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.justice.gov.il/Publicjs/gbox/detector-dom.min.js?rev=5.6.184_B186, line 0: Successfully compiled asm.js code (total compilation time 6ms; not stored in cache (too small to benefit))
+1555091812014	Marionette	INFO	Stopped listening on port 39587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1555091818601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VQfQYdGFJ8So"
+1555091819343	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555091819344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555091823066	Marionette	INFO	Listening on port 33597
+1555091823154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.justice.gov.il/Publicjs/gbox/detector-dom.min.js?rev=5.6.184_B186, line 0: Successfully compiled asm.js code (total compilation time 15ms; not stored in cache (too small to benefit))
+1555091839875	Marionette	INFO	Stopped listening on port 33597
+1555093501587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5hbfc0xVfqXA"
+1555093502522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555093502522	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555093508018	Marionette	INFO	Listening on port 45835
+1555093508094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://content.justice.gov.il/Publicjs/gbox/detector-dom.min.js?rev=5.6.184_B186, line 0: Successfully compiled asm.js code (total compilation time 20ms; not stored in cache (too small to benefit))
+1555094635073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l737fMyJza1O"
+1555094635945	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555094635948	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555094639862	Marionette	INFO	Listening on port 40153
+1555094640058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+1555094712555	Marionette	INFO	Stopped listening on port 40153
+1555094724359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6qW4VY01faf6"
+1555094725265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555094725266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555094729199	Marionette	INFO	Listening on port 36829
+1555094729274	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555094875392	Marionette	INFO	Stopped listening on port 36829
+1555094881313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rp2PGlkaCNJR"
+1555094884112	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555094884113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555094887968	Marionette	INFO	Listening on port 43769
+1555094888085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+[Parent 5491, Gecko_IOThread] WARNING: pipe error (78): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+[Parent 5491, Gecko_IOThread] WARNING: pipe error (109): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1555094959403	Marionette	INFO	Stopped listening on port 43769
+1555094966827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zxCxq93EIx2S"
+1555094967680	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555094967682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555094971503	Marionette	INFO	Listening on port 40113
+1555094971737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555094990064	Marionette	INFO	Stopped listening on port 40113
+[Parent 5761, Gecko_IOThread] WARNING: pipe error (97): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1555095038366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eTwTHVLyVeW3"
+1555095039275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555095039276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555095044040	Marionette	INFO	Listening on port 37091
+1555095044233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555095058130	Marionette	INFO	Stopped listening on port 37091
+1555095084539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.265HlCwas0Vm"
+1555095085362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555095085362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555095089462	Marionette	INFO	Listening on port 42425
+1555095089546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555095106996	Marionette	INFO	Stopped listening on port 42425
+1555095141413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AmwaExsufiZC"
+1555095142267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555095142269	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555095146656	Marionette	INFO	Listening on port 37071
+1555095146702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+1555095207506	Marionette	INFO	Stopped listening on port 37071
+1555095361581	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f4LJqqb9xO8w"
+1555095362443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555095362443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555095366243	Marionette	INFO	Listening on port 46109
+1555095366374	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555095433103	Marionette	INFO	Stopped listening on port 46109
+1555099017145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.V7KSilnJleon"
+1555099017999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555099017999	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555099022001	Marionette	INFO	Listening on port 43185
+1555099022079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+1555099366738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EqdHX6yYdPLi"
+1555099367590	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555099367592	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555099371562	Marionette	INFO	Listening on port 45265
+1555099371670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555099467929	Marionette	INFO	Stopped listening on port 45265
+[Parent 7987, Gecko_IOThread] WARNING: pipe error (81): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1555101138163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UWVEeqdizmns"
+1555101139396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555101139396	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555101143994	Marionette	INFO	Listening on port 33977
+1555101144049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555101240086	Marionette	INFO	Stopped listening on port 33977
+[Parent 8534, Gecko_IOThread] WARNING: pipe error (68): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1555101298118	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.F0F8kYN6R43j"
+1555101299123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555101299124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555101303091	Marionette	INFO	Listening on port 41039
+1555101303268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+1555101400970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8Nq0aWWi1X5r"
+1555101401838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555101401839	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555101406082	Marionette	INFO	Listening on port 36983
+1555101406142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555101506548	Marionette	INFO	Stopped listening on port 36983
+1555101951296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UjQCiIO1Ramg"
+1555101952209	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555101952211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555101956235	Marionette	INFO	Listening on port 38823
+1555101956336	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555102054658	Marionette	INFO	Stopped listening on port 38823
+[Parent 9673, Gecko_IOThread] WARNING: pipe error (81): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1555102351904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FJbWrFHPNm8X"
+1555102352980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555102352981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555102357047	Marionette	INFO	Listening on port 40883
+1555102357128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5f.js, line 4: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/13hales?lang=eng, line 1047: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng, line 1922: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/opening-remarks?lang=eng, line 1289: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/deep-and-lasting-conversion-to-heavenly-father-and-the-lord-jesus-christ?lang=eng, line 1570: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/lift-up-your-head-and-rejoice?lang=eng, line 1374: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555102543321	Marionette	INFO	Stopped listening on port 40883
+[Parent 10107, Gecko_IOThread] WARNING: pipe error (81): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
+1555111145417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5pNqBoATL7tj"
+1555111150672	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555111150676	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555111160866	Marionette	INFO	Listening on port 45075
+1555111160901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5f.js, line 4: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/13hales?lang=eng, line 1047: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng, line 1922: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/opening-remarks?lang=eng, line 1289: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/deep-and-lasting-conversion-to-heavenly-father-and-the-lord-jesus-christ?lang=eng, line 1570: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/lift-up-your-head-and-rejoice?lang=eng, line 1374: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555111337203	Marionette	INFO	Stopped listening on port 45075
+1555111465946	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aBC6qom08WWa"
+1555111467085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555111467086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555111471162	Marionette	INFO	Listening on port 43193
+1555111471372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/13hales?lang=eng, line 1047: TypeError: oldFooterP[0] is undefined
+1555111614089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4pgJ89aQdknE"
+1555111614984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555111614984	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555111620421	Marionette	INFO	Listening on port 42517
+1555111620538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/13hales?lang=eng, line 1047: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng, line 1922: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/opening-remarks?lang=eng, line 1289: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/deep-and-lasting-conversion-to-heavenly-father-and-the-lord-jesus-christ?lang=eng, line 1570: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/lift-up-your-head-and-rejoice?lang=eng, line 1374: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555111794668	Marionette	INFO	Stopped listening on port 42517
+1555112053127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DXTIq9lAwUqS"
+1555112054043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555112054043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555112057871	Marionette	INFO	Listening on port 38353
+1555112057928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+1555112144392	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vSMKpzbNv9Wo"
+1555112145310	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555112145312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555112149843	Marionette	INFO	Listening on port 42999
+1555112149883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/13hales?lang=eng, line 1047: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng, line 1922: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/opening-remarks?lang=eng, line 1289: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/deep-and-lasting-conversion-to-heavenly-father-and-the-lord-jesus-christ?lang=eng, line 1570: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/lift-up-your-head-and-rejoice?lang=eng, line 1374: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555112318026	Marionette	INFO	Stopped listening on port 42999
+1555113382069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IJGRKQozOmXB"
+1555113383312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555113383312	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555113388786	Marionette	INFO	Listening on port 39191
+1555113388861	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/13hales?lang=eng, line 1047: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/14uchtdorf?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/15waddell?lang=eng, line 1380: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/16eyring?lang=eng, line 1608: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/21oaks?lang=eng, line 980: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/22jergensen?lang=eng, line 980: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/23ballard?lang=eng, line 1368: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/24held?lang=eng, line 1204: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/25andersen?lang=eng, line 1586: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/26wada?lang=eng, line 1113: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/27homer?lang=eng, line 1225: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/28holland?lang=eng, line 1582: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/31stevenson?lang=eng, line 1386: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/32cook?lang=eng, line 1395: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/33clark?lang=eng, line 1449: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/34eyring?lang=eng, line 1255: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/35oaks?lang=eng, line 1255: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/36nelson?lang=eng, line 1053: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/41renlund?lang=eng, line 1525: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/42eubank?lang=eng, line 1353: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/43cook?lang=eng, line 1686: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/44christofferson?lang=eng, line 1408: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/45callister?lang=eng, line 1194: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/46nelson?lang=eng, line 1250: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/51oaks?lang=eng, line 1282: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/52villar?lang=eng, line 1033: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/53gong?lang=eng, line 1192: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/54bednar?lang=eng, line 1404: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/55mckay?lang=eng, line 1044: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/56rasband?lang=eng, line 1214: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/57nelson?lang=eng, line 1177: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng, line 1922: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/even-as-christ-forgives-you-so-also-do-ye?lang=eng, line 1138: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/the-heart-of-a-prophet?lang=eng, line 1373: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/until-seventy-times-seven?lang=eng, line 1626: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/the-prophet-of-god?lang=eng, line 1347: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/the-sustaining-of-church-officers?lang=eng, line 980: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/church-auditing-department-report-2017?lang=eng, line 980: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/meek-and-lowly-of-heart?lang=eng, line 1567: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/one-more-day?lang=eng, line 1307: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/young-women-in-the-work?lang=eng, line 1565: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/saving-ordinances-will-bring-us-marvelous-light?lang=eng, line 1497: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/teaching-in-the-home-a-joyful-and-sacred-responsibility?lang=eng, line 1796: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/family-history-and-temple-work-sealing-and-healing?lang=eng, line 1308: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/what-every-aaronic-priesthood-holder-needs-to-understand?lang=eng, line 1901: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/introductory-remarks?lang=eng, line 1303: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/the-elders-quorum?lang=eng, line 1349: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5f.js, line 4: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2018/04/behold-a-royal-army?lang=eng, line 1380: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/inspired-ministering?lang=eng, line 1335: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/the-powers-of-the-priesthood?lang=eng, line 1406: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/ministering-with-the-power-and-authority-of-god?lang=eng, line 1368: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/take-the-holy-spirit-as-your-guide?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/with-one-accord?lang=eng, line 1504: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/pure-love-the-true-sign-of-every-true-disciple-of-jesus-christ?lang=eng, line 1562: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/he-that-shall-endure-unto-the-end-the-same-shall-be-saved?lang=eng, line 1372: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/his-spirit-to-be-with-you?lang=eng, line 1355: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/small-and-simple-things?lang=eng, line 1418: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng, line 1701: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/christ-the-lord-is-risen-today?lang=eng, line 1333: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/prophets-speak-by-the-power-of-the-holy-spirit?lang=eng, line 980: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/ministering?lang=eng, line 1005: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/be-with-and-strengthen-them?lang=eng, line 1387: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/ministering-as-the-savior-does?lang=eng, line 1810: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/behold-the-man?lang=eng, line 1832: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/it-is-all-about-people?lang=eng, line 1235: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/prepare-to-meet-god?lang=eng, line 1762: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/let-us-all-press-on?lang=eng, line 1520: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/opening-remarks?lang=eng, line 1289: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+1555116995101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.sY1pnFILGwXe"
+1555116997466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555116997466	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555117003146	Marionette	INFO	Listening on port 33993
+1555117003210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/13hales?lang=eng, line 1047: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/14uchtdorf?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/15waddell?lang=eng, line 1380: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/16eyring?lang=eng, line 1608: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/21oaks?lang=eng, line 980: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/22jergensen?lang=eng, line 980: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/23ballard?lang=eng, line 1368: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/24held?lang=eng, line 1204: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/25andersen?lang=eng, line 1586: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/26wada?lang=eng, line 1113: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/27homer?lang=eng, line 1225: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/28holland?lang=eng, line 1582: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/31stevenson?lang=eng, line 1386: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5f.js, line 4: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2019/04/32cook?lang=eng, line 1395: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/33clark?lang=eng, line 1449: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/34eyring?lang=eng, line 1255: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/35oaks?lang=eng, line 1255: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/36nelson?lang=eng, line 1053: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/41renlund?lang=eng, line 1525: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/42eubank?lang=eng, line 1353: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/43cook?lang=eng, line 1686: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/44christofferson?lang=eng, line 1408: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/45callister?lang=eng, line 1194: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/46nelson?lang=eng, line 1250: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/51oaks?lang=eng, line 1282: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2019/04/52villar?lang=eng, line 1033: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/53gong?lang=eng, line 1192: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/54bednar?lang=eng, line 1404: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/55mckay?lang=eng, line 1044: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/56rasband?lang=eng, line 1214: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/57nelson?lang=eng, line 1177: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng, line 1922: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/even-as-christ-forgives-you-so-also-do-ye?lang=eng, line 1138: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/the-heart-of-a-prophet?lang=eng, line 1373: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/until-seventy-times-seven?lang=eng, line 1626: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/the-prophet-of-god?lang=eng, line 1347: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/the-sustaining-of-church-officers?lang=eng, line 980: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/church-auditing-department-report-2017?lang=eng, line 980: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/meek-and-lowly-of-heart?lang=eng, line 1567: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/one-more-day?lang=eng, line 1307: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/young-women-in-the-work?lang=eng, line 1565: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/saving-ordinances-will-bring-us-marvelous-light?lang=eng, line 1497: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/teaching-in-the-home-a-joyful-and-sacred-responsibility?lang=eng, line 1796: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/family-history-and-temple-work-sealing-and-healing?lang=eng, line 1308: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/what-every-aaronic-priesthood-holder-needs-to-understand?lang=eng, line 1901: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/introductory-remarks?lang=eng, line 1303: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/the-elders-quorum?lang=eng, line 1349: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/behold-a-royal-army?lang=eng, line 1380: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/inspired-ministering?lang=eng, line 1335: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/the-powers-of-the-priesthood?lang=eng, line 1406: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/ministering-with-the-power-and-authority-of-god?lang=eng, line 1368: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/take-the-holy-spirit-as-your-guide?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/with-one-accord?lang=eng, line 1504: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/pure-love-the-true-sign-of-every-true-disciple-of-jesus-christ?lang=eng, line 1562: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/he-that-shall-endure-unto-the-end-the-same-shall-be-saved?lang=eng, line 1372: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/his-spirit-to-be-with-you?lang=eng, line 1355: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/small-and-simple-things?lang=eng, line 1418: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5f.js, line 4: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2018/04/revelation-for-the-church-revelation-for-our-lives?lang=eng, line 1701: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/christ-the-lord-is-risen-today?lang=eng, line 1333: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/prophets-speak-by-the-power-of-the-holy-spirit?lang=eng, line 980: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/ministering?lang=eng, line 1005: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/be-with-and-strengthen-them?lang=eng, line 1387: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/ministering-as-the-savior-does?lang=eng, line 1810: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/behold-the-man?lang=eng, line 1832: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/it-is-all-about-people?lang=eng, line 1235: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/prepare-to-meet-god?lang=eng, line 1762: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/let-us-all-press-on?lang=eng, line 1520: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/opening-remarks?lang=eng, line 1289: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+1555122890097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RfWKAYX59rPd"
+1555122891036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555122891037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555122895146	Marionette	INFO	Listening on port 36633
+1555122895267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5f.js, line 4: ReferenceError: aaPluginConfig is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/13hales?lang=eng, line 1047: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng, line 1922: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/opening-remarks?lang=eng, line 1289: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/deep-and-lasting-conversion-to-heavenly-father-and-the-lord-jesus-christ?lang=eng, line 1570: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/lift-up-your-head-and-rejoice?lang=eng, line 1374: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555123067529	Marionette	INFO	Stopped listening on port 36633
+1555123874846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JjIHvO7ktPXD"
+1555123875743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555123875743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555123880200	Marionette	INFO	Listening on port 32963
+1555123880254	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5f.js, line 4: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/13hales?lang=eng, line 1047: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng, line 1922: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/opening-remarks?lang=eng, line 1289: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/deep-and-lasting-conversion-to-heavenly-father-and-the-lord-jesus-christ?lang=eng, line 1570: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/lift-up-your-head-and-rejoice?lang=eng, line 1374: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555124055562	Marionette	INFO	Stopped listening on port 32963
+1555127658923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.L9N3hl20MrzV"
+1555127660130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1555127660130	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+1555127664138	Marionette	INFO	Listening on port 35219
+1555127664208	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:750:13
+
+JavaScript error: https://www.lds.org/general-conference/2019/04/11soares?lang=eng, line 1128: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5e.js, line 5: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://assets.adobedtm.com/05c94072b1046aef0dc9b195809b4d2429a0d30a/scripts/satellite-569421e764746d270a00ea5f.js, line 4: ReferenceError: aaPluginConfig is not defined
+JavaScript error: https://www.lds.org/general-conference/2019/04/12craven?lang=eng, line 1056: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04/13hales?lang=eng, line 1047: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2019/04?lang=eng, line 2266: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/solemn-assembly?lang=eng, line 1043: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/precious-gifts-from-god?lang=eng, line 1486: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04/am-i-a-child-of-god?lang=eng, line 1922: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/04?lang=eng, line 2441: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/opening-remarks?lang=eng, line 1289: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/deep-and-lasting-conversion-to-heavenly-father-and-the-lord-jesus-christ?lang=eng, line 1570: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10/lift-up-your-head-and-rejoice?lang=eng, line 1374: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/2018/10?lang=eng, line 2301: TypeError: oldFooterP[0] is undefined
+JavaScript error: https://www.lds.org/general-conference/conferences?lang=eng, line 829: TypeError: oldFooterP[0] is undefined
+1555127839040	Marionette	INFO	Stopped listening on port 35219
+[Parent 9698, Gecko_IOThread] WARNING: pipe error (68): Conexión reinicializada por la máquina remota: file /build/firefox-fvtOIe/firefox-64.0+linuxmint2+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 363
