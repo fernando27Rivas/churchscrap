@@ -43,19 +43,22 @@ class ScraperSpider(CrawlSpider):
                     except:
                         headline = "N/A"
                     words = browser.find_element_by_xpath("//div[contains(@class, 'body-block')]").text
+                
                     try:
                         speaker = browser.find_element_by_xpath("//div[contains(@class, 'article-author')]/a").text
                     except:
                         speaker = browser.find_element_by_xpath("//div[contains(@class, 'article-author')]").text
                         
                     tittle = browser.find_element_by_xpath("//h1[contains(@class, 'title')]").text
+                    page_url = browser.current_url
+                    print(page_url)
                     print(year)
                     print(headline)
                     print(speaker)
                     print(tittle)
                     with open('data.csv', 'a') as csvFile:
                             data_writer = csv.writer(csvFile)
-                            data_writer.writerow([year, speaker, tittle, headline, words])
+                            data_writer.writerow([year, speaker, tittle, page_url, headline, words])
 
                 except:
                     pass
