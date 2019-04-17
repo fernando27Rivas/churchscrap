@@ -9,4 +9,12 @@ import scrapy
 
 
 class WebscrapyItem(scrapy.Item):
-   pass
+    
+    year = scrapy.Field()
+    speaker = scrapy.Field()
+    topic = scrapy.Field()
+    url = scrapy.Field()
+    headline = scrapy.Field()
+    words = scrapy.Field()
+    
+   

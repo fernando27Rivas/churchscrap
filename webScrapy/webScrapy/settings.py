@@ -14,6 +14,9 @@ BOT_NAME = 'webScrapy'
 SPIDER_MODULES = ['webScrapy.spiders']
 NEWSPIDER_MODULE = 'webScrapy.spiders'
 
+ITEM_PIPELINES = {
+    'webScrapy.pipelines.ScrapySpiderPipeline': 300,
+}
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'webScrapy (+http://www.yourdomain.com)'
@@ -89,4 +92,12 @@ DOWNLOAD_DELAY = 8
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
+CONNECTION_STRING = "{drivername}://{user}:{passwd}@{host}:{port}/{db_name}?charset=utf8".format(
+    drivername="mysql",
+    user="admin",
+    passwd="admin123",
+    host="localhost",
+    port="3306",
+    db_name="church",
+)
 
