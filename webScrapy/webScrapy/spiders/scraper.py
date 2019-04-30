@@ -25,20 +25,28 @@ class ScraperSpider(CrawlSpider):
         item = []
         browser = webdriver.Firefox()
         browser.get(url)
-        time.sleep(5)
-        rests = browser.find_elements_by_xpath("//div[contains(@class, 'year-line')]")
-        
+        time.sleep(10)
+        rests = browser.find_elements_by_xpath("//div[contains(@class, 'year-line')]/a")
+        print("This is the number of years")
+        print(len(rests))
         i=0
-        #while i<len(rests):
-        while i<2:
+        while i<len(rests):
+            print("This is the year number")
+            print(i)
+        #while i<2:
             browser.find_elements_by_xpath("//div[contains(@class, 'year-line')]/a")[i].click()
-            time.sleep(5)
+            time.sleep(10)
             j=0
             arts = browser.find_elements_by_xpath("//div[contains(@class, 'lumen-tile__title')]/div")
-            #while j<len(arts):
-            while j<4:
+            print("This is the number of conferences")
+            print(len(arts))
+            while j<len(arts):
+            #while j<2:
+                time.sleep(10)
                 browser.find_elements_by_xpath("//div[contains(@class, 'lumen-tile__title')]/div")[j].click()
-                time.sleep(5)
+                print("This is conference number")
+                print(j)
+                time.sleep(10)
                 try:
                     year = browser.find_element_by_xpath("//div[contains(@class, 'sticky-banner')]/a").text
                     try:
@@ -76,15 +84,15 @@ class ScraperSpider(CrawlSpider):
                 items["words"] = words
                 print("This is the item")
                 print(items["year"])
+                print(items["topic"])
                 print("See the item up")
-                browser.back()
+                item.append(items) 
                 j=j+1
-                item.append(items)  
-               
+                browser.back()
             i=i+1
-            time.sleep(5)
+            time.sleep(10)
             browser.back()
-        time.sleep(5)
+        time.sleep(10)
         print("Beginin of item list")
         print(item)
         print("End of item list")
