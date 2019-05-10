@@ -18,7 +18,7 @@ def create_table(engine):
     DeclarativeBase.metadata.create_all(engine)
 
 class QuoteDB(DeclarativeBase):
-    __tablename__ = "conference"
+    __tablename__ = "conference2"
 
     id = Column(Integer, primary_key=True)
     year = Column('year', String(50))

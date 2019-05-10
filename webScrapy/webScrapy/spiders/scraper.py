@@ -25,28 +25,28 @@ class ScraperSpider(CrawlSpider):
         item = []
         browser = webdriver.Firefox()
         browser.get(url)
-        time.sleep(10)
+        time.sleep(5)
         rests = browser.find_elements_by_xpath("//div[contains(@class, 'year-line')]/a")
         print("This is the number of years")
         print(len(rests))
         i=0
-        while i<len(rests):
+        while i<(len(rests)-1):
             print("This is the year number")
             print(i)
         #while i<2:
             browser.find_elements_by_xpath("//div[contains(@class, 'year-line')]/a")[i].click()
-            time.sleep(10)
+            time.sleep(5)
             j=0
             arts = browser.find_elements_by_xpath("//div[contains(@class, 'lumen-tile__title')]/div")
             print("This is the number of conferences")
             print(len(arts))
-            while j<len(arts):
-            #while j<2:
-                time.sleep(10)
+            #while j<len(arts):
+            while j<30:
+                time.sleep(5)
                 browser.find_elements_by_xpath("//div[contains(@class, 'lumen-tile__title')]/div")[j].click()
                 print("This is conference number")
                 print(j)
-                time.sleep(10)
+                time.sleep(5)
                 try:
                     year = browser.find_element_by_xpath("//div[contains(@class, 'sticky-banner')]/a").text
                     try:
@@ -90,9 +90,9 @@ class ScraperSpider(CrawlSpider):
                 j=j+1
                 browser.back()
             i=i+1
-            time.sleep(10)
+            time.sleep(5)
             browser.back()
-        time.sleep(10)
+        time.sleep(5)
         print("Beginin of item list")
         print(item)
         print("End of item list")
